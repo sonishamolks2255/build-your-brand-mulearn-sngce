@@ -2,7 +2,7 @@
 # build-your-brand-mulearn-sngce
 ## SONISHA MOL K S
 ### CSE - S3
-### Career Goal - Software Engineer
+### CAREER GOAL - SOFTWARE ENGINEER
 ### LINKEDIN URL - https://www.linkedin.com/in/sonisha-mol-k-s-421169387?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ## KEY TAKEWAYS FROM THE BUILD YOUR BRAND PROGRAM
