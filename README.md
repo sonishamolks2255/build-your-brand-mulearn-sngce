@@ -1,11 +1,11 @@
 # build-your-brand-mulearn-sngce
 # build-your-brand-mulearn-sngce
-## Sonisha Mol K S
+## SONISHA MOL K S
 ### CSE - S3
-### Career Goal
-### https://www.linkedin.com/in/sonisha-mol-k-s-421169387?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+### Career Goal - Software Engineer
+### LINKEDIN URL - https://www.linkedin.com/in/sonisha-mol-k-s-421169387?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
-## Key Takeaways from the Build Your Brand Program
+## KEY TAKEWAYS FROM THE BUILD YOUR BRAND PROGRAM
 
 Throughout this program, I gained valuable insights into personal branding and professional development. Some of the key learnings include:
 
@@ -18,5 +18,5 @@ Throughout this program, I gained valuable insights into personal branding and p
    - Managing and showcasing projects through GitHub repositories.
 5. Developing a professional online presence to enhance career opportunities and industry visibility.
 
-### Outcome
+### OUTCOME
 This program helped me strengthen my professional profile, improve my technical collaboration skills, and prepare for future career opportunities in the tech industry.
